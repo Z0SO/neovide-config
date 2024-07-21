@@ -1,0 +1,16 @@
+# Archivo de configuración para Neovide
+
+[window]
+title = "Neovide"
+fullscreen = false
+maximized = false
+
+[editor]
+font_size = 14.0
+line_height = 1.5
+
+# Configuración de atajos (esto es solo un ejemplo, verifica la documentación para los atajos disponibles)
+[[keymap]]
+key = "Ctrl+Shift+V"
+action = "Paste"
+
